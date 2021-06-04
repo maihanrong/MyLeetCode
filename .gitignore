@@ -4,7 +4,7 @@
 
 ## User settings
 xcuserdata/
-.DS_Store
+#.DS_Store
 
 ## compatibility with Xcode 8 and earlier (ignoring not required starting Xcode 9)
 *.xcscmblueprint
@@ -22,7 +22,7 @@ DerivedData/
 !default.mode2v3
 *.perspectivev3
 !default.perspectivev3
-#*.xcuserstate
+*.xcuserstate
 
 ## Obj-C/Swift specific
 *.hmap
