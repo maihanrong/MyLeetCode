@@ -37,5 +37,7 @@
         <page name='34.在排序数组中查找元素的第一个和最后一个位置'/>
         <page name='35.搜索插入位置'/>
         <page name='36.有效的数独'/>
+        <page name='38.外观数列'/>
+        <page name='39.组合总和'/>
     </pages>
 </playground>
