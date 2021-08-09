@@ -39,5 +39,6 @@
         <page name='36.有效的数独'/>
         <page name='38.外观数列'/>
         <page name='39.组合总和'/>
+        <page name='40.组合总和II'/>
     </pages>
 </playground>
