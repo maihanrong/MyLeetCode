@@ -42,5 +42,6 @@
         <page name='40.组合总和II'/>
         <page name='41.缺失的第一个正数'/>
         <page name='42.接雨水'/>
+        <page name='43.字符串相乘'/>
     </pages>
 </playground>
